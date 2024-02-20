@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="230"/>
+</p>
+<hr>
+<Br>
 <h1 align="center">Hola 👋, Im Carlos Caceres</h1>
 <h3 align="center">I am of Bolivian nationality, a systems engineering student at Ucb Tja, a traditional and digital artist, passionate about music and drawing.</h3>
 
